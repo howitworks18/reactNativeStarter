@@ -11,4 +11,4 @@ to run </br>
 ```react-native run-ios``` or ```react-native run-android```
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/howitworks18/reactNativeStarter/blob/master/readme-screenshot.png)
