@@ -11,3 +11,4 @@ to run </br>
 ```react-native run-ios``` or ```react-native run-android```
 
 
+![alt text](http://url/to/img.png)
