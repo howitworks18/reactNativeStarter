@@ -10,6 +10,5 @@ this does not change the name of the root file itself, you wil need to do that m
 to run </br>
 ```react-native run-ios``` or ```react-native run-android```
 
-<div style={height:200px}>
+
 ![alt text](https://github.com/howitworks18/reactNativeStarter/blob/master/readme-screenshot.png)
-</div>
