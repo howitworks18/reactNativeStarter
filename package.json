@@ -7,8 +7,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "colors": "^1.3.2",
     "mobx": "^5.0.2",
     "mobx-react": "^5.2.3",
+    "node-command-line": "^1.0.2",
+    "preprocess": "^3.1.0",
     "react": "16.3.1",
     "react-native": "0.55.4",
     "react-navigation": "^2.3.1"
