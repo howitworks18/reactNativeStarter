@@ -2,14 +2,14 @@
 Super simple RN starter boilerplate, uses Mobx and React Navigation
 
 
-Clone and cd into repo</br>
+Clone and cd into repo, run:
+</br>
 ```yarn```
 </br>
 </br>
-change the name of the project to whatever you like </br>
-```react-native-rename <newName>```
+change the name of the project to whatever you like, this does not change the name of the root file itself, you will need to do that manually.
 </br>
-this does not change the name of the root file itself, you wil need to do that manually
+```react-native-rename <newName>```
 </br> 
 </br>
 to run 
