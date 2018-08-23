@@ -7,17 +7,17 @@ Clone and cd into repo, run:
 ```yarn```
 </br>
 </br>
-change the name of the project to whatever you like, this does not change the name of the root file itself, you will need to do that manually.
+Change the name of the project to whatever you like, this does not change the name of the root file itself, you will need to do that manually.
 </br>
 ```react-native-rename <newName>```
 </br> 
 </br>
-to run 
+Run app: 
 </br>
 ```react-native run-ios``` or ```react-native run-android```
 </br>
 </br>
-screen template generator
+Screen template generator:
 </br>
 Run the command `node blueprint screen <ScreenName>` to generate a screen template
 </br>
