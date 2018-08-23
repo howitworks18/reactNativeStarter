@@ -13,7 +13,7 @@ to run </br>
 </br>
 screen template generator
 </br>
-Use the commands `$ node blueprint screen <ScreenName>` to generate a screen template
+Run the command `node blueprint screen <ScreenName>` to generate a screen template
 </br>
 
 ![alt text](https://github.com/howitworks18/reactNativeStarter/blob/master/readme-screenshot.png)
