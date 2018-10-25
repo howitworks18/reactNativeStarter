@@ -9,7 +9,6 @@ Clone and cd into repo, run:
 </br>
 Change the name of the project to whatever you like, this does not change the name of the root file itself, you will need to do that manually.
 </br>
-</br>
 ```yarn global add react-native-rename```
 </br>
 </br>
