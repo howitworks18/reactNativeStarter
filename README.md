@@ -12,6 +12,7 @@ Change the name of the project to whatever you like, this does not change the na
 </br>
 ```yarn global add react-native-rename```
 </br>
+</br>
 ```react-native-rename <newName>```
 </br> 
 </br>
